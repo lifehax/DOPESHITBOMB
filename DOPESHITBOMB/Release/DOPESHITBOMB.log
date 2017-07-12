@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  DOPESHITBOMB.cpp
+DOPESHITBOMB.cpp(57): warning C4129: '_': unrecognized character escape sequence
+DOPESHITBOMB.cpp(58): warning C4129: ' ': unrecognized character escape sequence
+DOPESHITBOMB.cpp(65): warning C4129: ' ': unrecognized character escape sequence
+DOPESHITBOMB.cpp(70): warning C4129: '_': unrecognized character escape sequence
+DOPESHITBOMB.cpp(71): warning C4129: ' ': unrecognized character escape sequence
+DOPESHITBOMB.cpp(72): warning C4129: ' ': unrecognized character escape sequence
+DOPESHITBOMB.cpp(75): warning C4129: '(': unrecognized character escape sequence
+DOPESHITBOMB.cpp(77): warning C4129: ' ': unrecognized character escape sequence
+DOPESHITBOMB.cpp(78): warning C4129: ' ': unrecognized character escape sequence
+  Generating code
+  All 102 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DOPESHITBOMB.vcxproj -> W:\projects\programs\DOPESHITBOMB\Release\DOPESHITBOMB.exe
