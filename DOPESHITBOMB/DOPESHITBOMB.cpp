@@ -77,7 +77,7 @@ int main()
 			std::cout << "                          (     //|/l|||)|\\ \     )                           " << std::endl;
 			std::cout << "                        (/ / //  /|//||||\\  \ \  \ _)                         " << std::endl;
 			std::cout << "-------------------------------------------------------------------------------" << std::endl;
-			std::cout << "This explosion/implosion structure is designed to continue exploding forever to make it more stable, it's orientation is pure state of being and provides to life to all souls with no intent for sacrifices or losses... press any key to view another..." << std::endl;
+			std::cout << "This explosion/implosion structure is designed to continue exploding forever to make it more stable, it's orientation is pure state of being and provides life to all souls with no intent for sacrifices or losses..." << std::endl;
 			system("pause");
 		}
 
