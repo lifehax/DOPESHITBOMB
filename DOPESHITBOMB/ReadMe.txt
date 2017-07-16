@@ -1,40 +1,6 @@
-========================================================================
-    CONSOLE APPLICATION : DOPESHITBOMB Project Overview
-========================================================================
+What is a natural solidfying as target intent pattern enforcement/release mechanism, or nature solid state device, and how does it apply?
 
-AppWizard has created this DOPESHITBOMB application for you.
+If released by that which has power over the nature the nature will become solidified as the intentful target pattern as meaning against observer quality.
 
-This file contains a summary of what you will find in each of the files that
-make up your DOPESHITBOMB application.
+All dynamic existence motions are related to achieving a higher degree of force in regards to the structure becoming more solid.
 
-
-DOPESHITBOMB.vcxproj
-    This is the main project file for VC++ projects generated using an Application Wizard.
-    It contains information about the version of Visual C++ that generated the file, and
-    information about the platforms, configurations, and project features selected with the
-    Application Wizard.
-
-DOPESHITBOMB.vcxproj.filters
-    This is the filters file for VC++ projects generated using an Application Wizard. 
-    It contains information about the association between the files in your project 
-    and the filters. This association is used in the IDE to show grouping of files with
-    similar extensions under a specific node (for e.g. ".cpp" files are associated with the
-    "Source Files" filter).
-
-DOPESHITBOMB.cpp
-    This is the main application source file.
-
-/////////////////////////////////////////////////////////////////////////////
-Other standard files:
-
-StdAfx.h, StdAfx.cpp
-    These files are used to build a precompiled header (PCH) file
-    named DOPESHITBOMB.pch and a precompiled types file named StdAfx.obj.
-
-/////////////////////////////////////////////////////////////////////////////
-Other notes:
-
-AppWizard uses "TODO:" comments to indicate parts of the source code you
-should add to or customize.
-
-/////////////////////////////////////////////////////////////////////////////
